@@ -1,0 +1,2 @@
+CATCAM Summer project
+This summer i wanted to start a new project to learn some python skills.
