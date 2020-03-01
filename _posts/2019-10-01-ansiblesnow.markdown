@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Ansible with Service Now. Autumn project"
-date: 2020-01-10 15:00:00 -0000
+date: 2019-10-01 15:00:00 -0000
 categories: CATEGORY-1 CATEGORY-2
 ---
 
