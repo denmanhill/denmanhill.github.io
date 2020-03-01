@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Weather station! Winter project"
-date: 2019-01-10 15:00:00 -0000
+date: 2020-01-10 15:00:00 -0000
 categories: CATEGORY-1 CATEGORY-2
 ---
 
