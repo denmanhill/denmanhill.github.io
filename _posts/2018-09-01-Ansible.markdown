@@ -1,0 +1,9 @@
+---
+layout: page
+title: "Ansible. Autumn project"
+date: 2020-01-10 15:00:00 -0000
+categories: CATEGORY-1 CATEGORY-2
+---
+
+Ansible. Autumn project
+Theres ever greater push to automate all the things. Although im fairly familar with Powershell i wanted to start learning Ansible and see if/how it could be intergrated at work.
