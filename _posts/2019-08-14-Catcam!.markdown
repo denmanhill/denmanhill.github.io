@@ -1,7 +1,9 @@
+---
 layout: page
 title: "CATCAM! Summer project"
 date: 2019-08-14 15:00:00 -0000
 categories: CATEGORY-1 CATEGORY-2
+---
 
 CATCAM Summer project
 This summer i wanted to start a new project to learn some python skills.
