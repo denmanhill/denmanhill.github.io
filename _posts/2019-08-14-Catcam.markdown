@@ -13,4 +13,4 @@ This summer i wanted to start a new project to learn some python skills and had 
 * To access the controls and webcam via a webpage
 * Write any underlying code in python rather then powershell.
 
-![Image of Yaktocat](https://github.com/denmanhill/denmanhill.github.io/tree/master/images/catcam.jpg)
+![Image of Yaktocat](/images/catcam.jpg)
