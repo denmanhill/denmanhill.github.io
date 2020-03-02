@@ -8,7 +8,7 @@ categories: CATEGORY-1 CATEGORY-2
 CATCAM Summer project
 This summer i wanted to start a new project to learn some python skills and had the idea of something that might engage my kids a bit more. The idea of catcam was born. There are a few main components that we wanted to build:
 
-..* A remote controlled lego car
-..* Ability to attach a webcam and watch where the car is going
-..* To access the controls and webcam via a webpage
-..* Write any underlying code in python rather then powershell.
+* A remote controlled lego car
+* Ability to attach a webcam and watch where the car is going
+* To access the controls and webcam via a webpage
+* Write any underlying code in python rather then powershell.
