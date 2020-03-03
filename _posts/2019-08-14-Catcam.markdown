@@ -22,5 +22,7 @@ First off there is the car itself. This is made up of a technic lego car, i used
 https://www.amazon.co.uk/LEGO-Technic-42029-Customised-Truck/dp/B00H48LAIM
 I knew i was likely going to need two motors in it: one to drive it back and forward and one to turn it left and right. I got two motors like this:
 https://www.lego.com/en-gb/product/ev3-large-servo-motor-45502
+You can probably see from the above photo that i took the axles, steering and some of the frame from the original car. I then dumped out everything thing else i could, make it a bit lighter and a bit more bare bones. You can see the two motors mounted vertically in the middle. They have a drive shaft coming each way at the bottom of the car, one goes to a differential at the front of the car to turn the front wheels. The second goes to a rack and pinion type steering assembly at the back (car is rear wheel steering).
 
+### The brain
 Finally the last part of it was how was i going to control it and at the same time connect a webcam. A raspberry pi was a bit of a no brainer, low power device and small enough to put inside the car. But then the problem became how to actually connect the lego mindstorm motors. I bought one of these: https://shop.dexterindustries.com/brickpi-advanced-for-raspberry-pi/. Its an extra PCB that plugs ontop of the RPI, and allows you to connect NXT/EV3 lego mindstorm motors. Also comes with python librarys to manipulate the motors. Great!
