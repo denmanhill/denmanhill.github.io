@@ -18,3 +18,9 @@ The below was the result:
 ![Image of Yaktocat](/images/catcam.jpg)
 
 ### Remote Controlled Car
+First off there is the car itself. This is made up of a technic lego car, i used one of these as the basis:
+https://www.amazon.co.uk/LEGO-Technic-42029-Customised-Truck/dp/B00H48LAIM
+I knew i was likely going to need two motors in it: one to drive it back and forward and one to turn it left and right. I got two motors like this:
+https://www.lego.com/en-gb/product/ev3-large-servo-motor-45502
+
+Finally the last part of it was how was i going to control it and at the same time connect a webcam. A raspberry pi was a bit of a no brainer, low power device and small enough to put inside the car. But then the problem became how to actually connect the lego mindstorm motors. I bought one of these: https://shop.dexterindustries.com/brickpi-advanced-for-raspberry-pi/. Its an extra PCB that plugs ontop of the RPI, and allows you to connect NXT/EV3 lego mindstorm motors. Also comes with python librarys to manipulate the motors. Great!
