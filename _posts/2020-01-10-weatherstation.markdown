@@ -18,5 +18,5 @@ Once i knew it was possible to get the values, next steps were how to actually g
 Looking around i found this repo https://github.com/merbanan/rtl_433. This is exactly what i wanted an executably that someone has already written which can collect the actual values and output them. I setup a Windows Scheduled Task to run it once every 5 minute. You can specify various different output formats and with a bit of luck it can already output to influxdb. Here are my exact parameters:
 
 ### Storing values
-I already have an influxdb server which i use to store various stats for my homelab, and already have grafana to view that data. You should create a new influx database 'CREATE DATABASE WEATHER'. And then set that as a new datasource in grafana. Then you can create your dashboard. Ive output mine into my respository
+I already have an influxdb server which i use to store various stats for my homelab, and already have grafana to view that data. You should create a new influx database `CREATE DATABASE WEATHER`. And then set that as a new datasource in grafana. Then you can create your dashboard. Ive output mine into my respository
 
